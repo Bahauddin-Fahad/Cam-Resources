@@ -11,14 +11,14 @@ const Header = () => {
         className=" md:hidden bg-teal-400 p-6 mb-3"
       >
         {open ? (
-          <XIcon className="w-8 h-8" />
+          <XIcon className="w-8 h-8 text-white" />
         ) : (
-          <MenuIcon className="w-8 h-8" />
+          <MenuIcon className="w-8 h-8 text-white" />
         )}
       </div>
       <div
-        className={`navbar bg-teal-400 p-8 mb-8 md:flex justify-center absolute md:static duration-300 ease-in ${
-          open ? " top-16 rounded-md flex flex-col " : "top-[-250px]"
+        className={`navbar bg-teal-400 p-8 mb-8 md:flex justify-center absolute md:static duration-500 ease-in ${
+          open ? " top-16 rounded-md flex flex-col " : "top-[-280px]"
         }`}
       >
         <CustomLink to="/"> Home</CustomLink>

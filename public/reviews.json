@@ -1,0 +1,44 @@
+[
+  {
+    "id": 500335,
+    "reviewerImg": "/reviewerImages/austin-wade.jpg",
+    "reviewerName": "Austin Wade",
+    "ratings": "4.5",
+    "description": "The D780 is larger and heavier overall than its mirrorless counterparts, but at just under 30 ounces (840 grams), it is not overly heavy. Further, the deep, redesigned grip makes the D780 comfortable to hold."
+  },
+  {
+    "id": 975911,
+    "reviewerImg": "/reviewerImages/erwi-jason.jpg",
+    "reviewerName": "Erwy Jason",
+    "ratings": "4.8",
+    "description": "The D780's 24.5-megapixel image sensor produces very good images. The resolution of the D780's files can't match what you get with the higher-megapixel D850, but for many users, the D780 packs plenty of punch.Glad to have this."
+  },
+  {
+    "id": 793570,
+    "reviewerImg": "/reviewerImages/stephanie-liverani.jpg",
+    "reviewerName": "Stephanie Liverani",
+    "ratings": "4.1",
+    "description": "The D780 captures images with excellent color as well. I am particularly impressed by Nikon's treatment of greens, which bodes well for me as a landscape and nature photographer. Overall, the D780's image quality ranges from very good to excellent."
+  },
+  {
+    "id": 395142,
+    "reviewerImg": "/reviewerImages/vince-fleming.jpg",
+    "reviewerName": "Vince Fleming",
+    "ratings": "5",
+    "description": "The D780 is one of Nikon's best DSLR cameras for shooting video. It records good-looking 4K UHD video at 24, 25 and 30p framerates. Further, the 273-point Hybrid autofocus does a good job in most cases, particularly in good light. "
+  },
+  {
+    "id": 857529,
+    "reviewerImg": "/reviewerImages/christopher-campbell.jpg",
+    "reviewerName": "Christopher Campbell",
+    "ratings": "4.8",
+    "description": "The Nikon D780 is another great DSLR camera from Nikon. It offers many nice features and captures high-quality images and video. The camera delivers strong performance across the board. If a new DSLR is what you want, the Nikon D780 is a great option."
+  },
+  {
+    "id": 626279,
+    "reviewerImg": "/reviewerImages/nicolas-horn.jpg",
+    "reviewerName": "Nicolas Horn",
+    "ratings": "4.3",
+    "description": "The D780 offers other nice video features, including slow-motion video at 4x and 5x speeds in Full HD resolution. Additional features include N-Log and HDR (HLG) recording formats and an option for recording with timecode."
+  }
+]

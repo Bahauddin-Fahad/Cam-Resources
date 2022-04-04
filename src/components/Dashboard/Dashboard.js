@@ -5,7 +5,7 @@ import MyBarChart from "../MyBarChart/MyBarChart";
 import MyPieChart from "../MyPieChart/MyPieChart";
 const Dashboard = () => {
   return (
-    <div className=" grid lg:grid-cols-2 sm:grid-cols-1 gap-y-12 mb-10 px-10 py-4">
+    <div className=" grid lg:grid-cols-2 grid-cols-1 gap-y-12 mb-10 px-10 py-4">
       <MyLineChart></MyLineChart>
       <MyAreaChart></MyAreaChart>
       <MyBarChart></MyBarChart>
