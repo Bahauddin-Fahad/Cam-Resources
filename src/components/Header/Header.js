@@ -17,7 +17,7 @@ const Header = () => {
         )}
       </div>
       <div
-        className={`navbar bg-teal-400 p-8 mb-8 md:flex justify-center absolute md:static duration-500 ease-in ${
+        className={`navbar bg-teal-400 p-8 mb-8 z-30 md:flex justify-center absolute md:static duration-500 ease-in ${
           open ? " top-16 rounded-md flex flex-col " : "top-[-280px]"
         }`}
       >
