@@ -5,7 +5,7 @@ import UseChartData from "../../Hooks/UseChartData";
 const MyLineChart = () => {
   const [data] = UseChartData();
   return (
-    <div className="flex flex-col items-center">
+    <div className="flex flex-col items-center -z-50">
       <h2 className=" text-2xl font-bold text-teal-500 mb-4">
         MONTH WISE SELL
       </h2>
