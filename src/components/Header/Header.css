@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+.navbar a {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: rgb(242, 252, 255);
+  color: darkcyan;
+  margin: 10px;
+  padding-bottom: 5px;
+  border-bottom: 5px solid darkcyan;
+  border-radius: 3px;
+}

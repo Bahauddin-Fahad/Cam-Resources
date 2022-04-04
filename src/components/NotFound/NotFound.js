@@ -1,11 +1,10 @@
 import React from "react";
-
+import Page404 from "../Assets/Page404.gif";
 const NotFound = () => {
   return (
-    <div>
-      <h1>404 Not Found</h1>
+    <div className="flex justify-center">
+      <img src={Page404} alt="" />
     </div>
   );
 };
-<h1>404 Not Found</h1>;
 export default NotFound;

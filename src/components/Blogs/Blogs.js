@@ -9,4 +9,3 @@ const Blogs = () => {
 };
 
 export default Blogs;
-<h2>Blogs</h2>;
