@@ -11,24 +11,24 @@
 
 **In this Assignment,There are,**
 
-### - Home
+### Home
 
 - Image Of Product.
 - Basic Intro Of Product.
 - 3 Reviews Of Customers.
 
-### - Reviews
+### Reviews
 
 - Reviews Of Satisfied Customers,their Images and Overall Rating for the Product.
 
-### - Dashboard
+### Dashboard
 
 - 4 Charts of Monthly Sale,Investment and Revenue Ratio.
 
-### - Blogs
+### Blogs
 
 - Answers of the 3 Important Questions.
 
-### - About
+### About
 
 - Specifications of the Product.
