@@ -18,7 +18,8 @@ const Review = ({ review }) => {
         <p className=" font-medium text-justify mb-4">{description}</p>
 
         <p className="font-bold flex items-center">
-          Rating: {ratings} <StarIcon className="w-4 h-4 ml-2 text-amber-500" />
+          Rating: {ratings}{" "}
+          <StarIcon className="w-4 h-4 ml-1  text-amber-500" />
         </p>
       </div>
     </div>

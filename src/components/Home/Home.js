@@ -20,8 +20,11 @@ const Home = () => {
             videos with ultra shallow depth of field and sharp, clean low light
             shots. Welcome to the brilliance of full frame.
           </p>
-          <button className=" bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold w-36">
-            Live Demo
+          <button
+            onClick={() => navigate("/about")}
+            className=" bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold w-36"
+          >
+            Full Specs
           </button>
         </div>
         <div>

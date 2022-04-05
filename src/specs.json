@@ -1,0 +1,47 @@
+[
+  {
+    "id": "624be07fea0e388576731731",
+    "name": "Full Model Name",
+    "value": "Nikon D780"
+  },
+  {
+    "id": "624be07f6999278b7c5b876d",
+    "name": "Manufacturer",
+    "value": "Nikon"
+  },
+  {
+    "id": "624be07f12eef3c1ee48e608",
+    "name": "Resolution",
+    "value": "24.50 Megapixels"
+  },
+  {
+    "id": "624be07fb15b3e1759aa11a4",
+    "name": "Sensor Size",
+    "value": "35mm (35.9mm x 23.9mm)"
+  },
+  {
+    "id": "624be07f68eb920ed7e2776f",
+    "name": "Kit Lens",
+    "value": "5.00x zoom 24-120mm"
+  },
+  {
+    "id": "624be07f94be433f4ab2b40c",
+    "name": "Shutter",
+    "value": "1/8000 - 900 sec"
+  },
+  {
+    "id": "624be07fc1d1078ac2082ad6",
+    "name": "Max Aperture",
+    "value": "4.0 (kit lens)"
+  },
+  {
+    "id": "624be07f4793d5c079824ffa",
+    "name": "Weight",
+    "value": "29.6 oz (840 g)"
+  },
+  {
+    "id": "624be07fb17bfb8a13f01b05",
+    "name": "Availability",
+    "value": "01/2020"
+  }
+]

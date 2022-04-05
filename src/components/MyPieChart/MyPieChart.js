@@ -4,13 +4,12 @@ import UseChartData from "../../Hooks/UseChartData";
 
 const MyPieChart = () => {
   const [data] = UseChartData();
-  console.log(data);
   return (
     <div className="flex flex-col items-center">
-      <h2 className=" text-2xl font-bold text-teal-500">
+      <h2 className="text-xl font-bold text-teal-500 mb-6">
         INVESTMENT VS REVENUE
       </h2>
-      <PieChart width={450} height={350}>
+      <PieChart width={350} height={250}>
         <Pie
           data={data}
           dataKey={"investment"}

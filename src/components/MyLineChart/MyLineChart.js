@@ -6,12 +6,10 @@ const MyLineChart = () => {
   const [data] = UseChartData();
   return (
     <div className="flex flex-col items-center ">
-      <h2 className=" text-2xl font-bold text-teal-500 mb-4">
-        MONTH WISE SELL
-      </h2>
+      <h2 className="text-xl font-bold text-teal-500 mb-6">MONTH WISE SELL</h2>
       <LineChart
-        width={450}
-        height={350}
+        width={350}
+        height={250}
         data={data}
         margin={{
           top: 20,

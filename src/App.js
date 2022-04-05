@@ -7,6 +7,7 @@ import Dashboard from "./components/Dashboard/Dashboard";
 import Blogs from "./components/Blogs/Blogs";
 import About from "./components/About/About";
 import NotFound from "./components/NotFound/NotFound";
+
 function App() {
   return (
     <div className="App">
