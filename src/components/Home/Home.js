@@ -32,7 +32,7 @@ const Home = () => {
         </div>
       </div>
       <div className=" mt-14">
-        <h1 className=" text-5xl font-bold">Customer Reviews (3)</h1>
+        <h1 className=" text-4xl font-bold">Customer Reviews (3)</h1>
         <div className="grid sm:grid-cols-1 md:grid-cols-3 gap-10 m-6">
           {reviews.slice(0, 3).map((review) => (
             <Review key={review.id} review={review}></Review>
