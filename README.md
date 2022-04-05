@@ -13,13 +13,13 @@
 
 ### - Home
 
--Image Of Nikon D780
--Basic Intro Of Nikon D780
--3 Reviews Of Customers
+\*Image Of Product.
+\*Basic Intro Of Product.
+\*3 Reviews Of Customers.
 
 ### -Reviews
 
--Reviews Of Satisfied Customers,their Images and Overall Rating for the Product
+-Reviews Of Satisfied Customers,their Images and Overall Rating for the Product.
 
 ### -Dashboard
 
@@ -31,4 +31,4 @@
 
 ### -About
 
--Specifications of the Nikon D780.
+-Specifications of the Product.
