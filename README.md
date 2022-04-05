@@ -13,22 +13,22 @@
 
 ### - Home
 
-\*Image Of Product.
-\*Basic Intro Of Product.
-\*3 Reviews Of Customers.
+- Image Of Product.
+- Basic Intro Of Product.
+- 3 Reviews Of Customers.
 
 ### -Reviews
 
--Reviews Of Satisfied Customers,their Images and Overall Rating for the Product.
+- Reviews Of Satisfied Customers,their Images and Overall Rating for the Product.
 
 ### -Dashboard
 
--4 Charts of Monthly Sale,Investment and Revenue Ratio.
+- 4 Charts of Monthly Sale,Investment and Revenue Ratio.
 
 ### - Blogs
 
--Answers of the 3 Important Questions.
+- Answers of the 3 Important Questions.
 
 ### -About
 
--Specifications of the Product.
+- Specifications of the Product.
