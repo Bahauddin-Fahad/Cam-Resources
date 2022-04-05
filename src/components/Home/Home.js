@@ -11,7 +11,7 @@ const Home = () => {
     <div>
       <div className="grid lg:grid-cols-2 sm:grid-cols-1 max-w-7xl mx-auto justify-evenly items-center">
         <div className="ml-4 mr-4 flex flex-col items-center lg:items-start ">
-          <h1 className="text-5xl font-bold mb-6 text-teal-600">
+          <h1 className="header-text text-5xl font-bold mb-6 text-teal-600">
             Select Your Best Camera
           </h1>
           <p className="text-xl font-semibold text-left w-11/12 mb-6">
@@ -22,7 +22,7 @@ const Home = () => {
           </p>
           <button
             onClick={() => navigate("/about")}
-            className=" bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold w-36"
+            className="bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold font-mono w-36"
           >
             Full Specs
           </button>
@@ -40,7 +40,7 @@ const Home = () => {
         </div>
         <button
           onClick={() => navigate("/reviews")}
-          className=" bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold w-40"
+          className=" bg-teal-600 py-2 mb-10 sm:mb-10 rounded-md text-white text-xl font-semibold font-mono w-40"
         >
           More Reviews
         </button>
