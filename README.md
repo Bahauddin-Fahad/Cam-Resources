@@ -1,6 +1,6 @@
 # Cam Resources
 
-## Live Website Link : [https://bahauddin-fahad-cam-resources.netlify.app]
+## Live Website Link : https://bahauddin-fahad-cam-resources.netlify.app
 
 **In this Assignment,I Have Used:**
 
@@ -11,15 +11,24 @@
 
 **In this Assignment,There are,**
 
-- Home
-  -Image Of Nikon D780
-  -Basic Intro Of Nikon D780
-  -3 Reviews Of Customers
+### - Home
 
--Reviews
+-Image Of Nikon D780
+-Basic Intro Of Nikon D780
+-3 Reviews Of Customers
 
--Dashboard
+### -Reviews
 
-- Blogs
+-Reviews Of Satisfied Customers,their Images and Overall Rating for the Product
 
--About
+### -Dashboard
+
+-4 Charts of Monthly Sale,Investment and Revenue Ratio.
+
+### - Blogs
+
+-Answers of the 3 Important Questions.
+
+### -About
+
+-Specifications of the Nikon D780.
