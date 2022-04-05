@@ -10,8 +10,8 @@ const Home = () => {
   return (
     <div>
       <div className="grid lg:grid-cols-2 sm:grid-cols-1 max-w-7xl mx-auto justify-evenly items-center">
-        <div className="ml-8 flex flex-col items-center lg:items-start sm:items-center md:items-center">
-          <h1 className=" col text-5xl font-bold mb-6 text-left text-teal-600">
+        <div className="ml-4 mr-4 flex flex-col items-center lg:items-start ">
+          <h1 className="text-5xl font-bold mb-6 text-teal-600">
             Select Your Best Camera
           </h1>
           <p className="text-xl font-semibold text-left w-11/12 mb-6">
